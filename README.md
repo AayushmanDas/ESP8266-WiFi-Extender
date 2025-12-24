@@ -1,4 +1,5 @@
 🛰️ ESP8266 Wi-Fi Range Extender
+
 A functional, DIY Wi-Fi range extender built on the ESP8266. This project uses NAPT (Network Address Port Translation) to bridge connections and eliminate home dead zones, featuring a custom UI for real-time monitoring.
 
 ✨ Features
@@ -30,6 +31,7 @@ Resistors: 3x 220Ω (For the RGB legs)
 <p align="center"> <img src="WiFi Extender_bb.png" width="600" alt="Circuit Diagram"> </p>
 
 🚀 Setup Instructions
+
 Libraries: Install Adafruit_SSD1306 and Adafruit_GFX.
 
 Configuration: Update STASSID and STAPSK with your network credentials.
@@ -39,4 +41,5 @@ Flash: Upload the code to your ESP8266.
 Deploy: Place the extender in a location where the RGB LED stays Green for optimal performance.
 
 📜 License
+
 This project is licensed under the MIT License.
