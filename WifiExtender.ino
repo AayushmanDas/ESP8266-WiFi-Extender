@@ -17,7 +17,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // AP SETUP
 #define AP_NAME "ESP8266_Wifi_Extender" // You can change this to be whatever you want the network name to be
-#define AP_PASS "extender8266" // You can also change this to set the password for th extender
+#define AP_PASS "extender8266" // You can also change this to set the password for the extender
 
 //LED SETUP
 #define RED_LED D5
