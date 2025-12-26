@@ -22,7 +22,7 @@ Microcontroller: ESP8266 (NodeMCU or D1 Mini)
 
 Display: SSD1306 OLED (128x64 I2C)
 
-Indicator: RGB LED (Common Cathode)
+Indicator: RGB LED (Common Anode)
 
 Resistors: 3x 220Ω (For the RGB legs)
 
